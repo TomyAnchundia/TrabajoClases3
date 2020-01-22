@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.exe
+C:\Users\Usuario\source\repos\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.deps.json
+C:\Users\Usuario\source\repos\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.runtimeconfig.json
+C:\Users\Usuario\source\repos\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.dll
+C:\Users\Usuario\source\repos\Factura\Factura\bin\Debug\netcoreapp3.1\Factura.pdb
+C:\Users\Usuario\source\repos\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.dll
+C:\Users\Usuario\source\repos\Factura\Factura\obj\Debug\netcoreapp3.1\Factura.pdb
