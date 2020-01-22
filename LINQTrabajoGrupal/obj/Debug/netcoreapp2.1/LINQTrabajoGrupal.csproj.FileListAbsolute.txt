@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\LINQTrabajoGrupal\bin\Debug\netcoreapp2.1\LINQTrabajoGrupal.deps.json
+C:\Users\Usuario\source\repos\LINQTrabajoGrupal\bin\Debug\netcoreapp2.1\LINQTrabajoGrupal.runtimeconfig.json
+C:\Users\Usuario\source\repos\LINQTrabajoGrupal\bin\Debug\netcoreapp2.1\LINQTrabajoGrupal.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\LINQTrabajoGrupal\bin\Debug\netcoreapp2.1\LINQTrabajoGrupal.dll
+C:\Users\Usuario\source\repos\LINQTrabajoGrupal\bin\Debug\netcoreapp2.1\LINQTrabajoGrupal.pdb
+C:\Users\Usuario\source\repos\LINQTrabajoGrupal\obj\Debug\netcoreapp2.1\LINQTrabajoGrupal.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\LINQTrabajoGrupal\obj\Debug\netcoreapp2.1\LINQTrabajoGrupal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LINQTrabajoGrupal\obj\Debug\netcoreapp2.1\LINQTrabajoGrupal.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\LINQTrabajoGrupal\obj\Debug\netcoreapp2.1\LINQTrabajoGrupal.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\LINQTrabajoGrupal\obj\Debug\netcoreapp2.1\LINQTrabajoGrupal.dll
+C:\Users\Usuario\source\repos\LINQTrabajoGrupal\obj\Debug\netcoreapp2.1\LINQTrabajoGrupal.pdb

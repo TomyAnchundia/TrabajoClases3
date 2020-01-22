@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQTrabajoGrupal", "LINQTrabajoGrupal.csproj", "{F99B10D8-65A6-4EBA-B1FC-C0C7C33E034A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factura", "..\..\..\Desktop\Factura\Factura\Factura.csproj", "{3A1987D1-4951-4C33-90AA-2E97617DFABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F99B10D8-65A6-4EBA-B1FC-C0C7C33E034A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99B10D8-65A6-4EBA-B1FC-C0C7C33E034A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99B10D8-65A6-4EBA-B1FC-C0C7C33E034A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99B10D8-65A6-4EBA-B1FC-C0C7C33E034A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A1987D1-4951-4C33-90AA-2E97617DFABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1987D1-4951-4C33-90AA-2E97617DFABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1987D1-4951-4C33-90AA-2E97617DFABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1987D1-4951-4C33-90AA-2E97617DFABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E10C84B-60B0-4DBA-8FF2-840AE0BBE5F6}
+	EndGlobalSection
+EndGlobal
